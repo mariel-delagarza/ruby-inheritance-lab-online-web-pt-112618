@@ -1,11 +1,11 @@
-class Student 
+class Student
 
   def initialize
-    @knowledge = [] 
-  end 
+    @knowledge = []
+  end
 
-  def knowledge 
-    @knowledge 
-  end 
-  
+  def knowledge
+    @knowledge
+  end
+
 end
